@@ -26,7 +26,7 @@
             <version>5.1.39</version>
         </dependency>
         <dependency>
-            <groupId>com.tennenjl</groupId>
+            <groupId>com.floresam</groupId>
             <artifactId>custom-log4j</artifactId>
             <version>1.0.0</version>
             <type>pom</type>
